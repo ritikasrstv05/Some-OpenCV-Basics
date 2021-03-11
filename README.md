@@ -8,5 +8,22 @@ Objectives for this is to practise certain openCV basics, such as :
 - Resizing images.
 <br>
 Lets take a look :
+1. Image Joining 
+
+![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/ijoin.png)
+
+2. WARP perspection
+
+![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/warp.png)
+
+3. Color Detection
+![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/color.png)
 <br>
-![ijoin](https://user-images.githubusercontent.com/77094652/110765674-6d853700-827a-11eb-8fb9-6418feb34852.png)
+4. Draw shape on images.
+
+![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/img.png)
+
+<br>
+5. Shape Detection 
+
+![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/stack.png)
