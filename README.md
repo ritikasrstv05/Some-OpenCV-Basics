@@ -8,7 +8,7 @@ Objectives for this is to practise certain openCV basics, such as :
 - Resizing images.
 <br>
 Lets take a look :
-1. Image Joining 
+<br>1. Image Joining 
 
 ![ijoin](https://github.com/ritikasrstv05/Some-OpenCV-Basics/blob/main/ijoin.png)
 
